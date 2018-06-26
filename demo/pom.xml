@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.jcv.version</groupId>
+    <packaging>war</packaging>
     <artifactId>demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
